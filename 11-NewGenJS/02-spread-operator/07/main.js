@@ -1,0 +1,1 @@
+// cosnt cloneObj = obj => ({...obj})
